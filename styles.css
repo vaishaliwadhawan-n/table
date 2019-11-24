@@ -1,0 +1,20 @@
+#table{
+    width: 900px;
+    border: 2px solid black;
+    margin: 10px;
+    border-collapse: collapse; 
+}
+
+.heading{
+    border: 2px solid black;
+}
+
+.content{
+    border: 2px solid black;
+    color: darkblue;
+}
+
+#add{
+    width: 50px;
+    height: 25px;
+}
